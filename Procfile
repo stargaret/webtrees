@@ -1,1 +1,1 @@
-web: vendor/bin/heroku-php-apache2 webtrees/
+web: vendor/bin/heroku-php-apache2 ./
